@@ -3,8 +3,10 @@
 1.string
 2.number
 3.boolean
-4.float
-5.bigInt
+4.bigInt
+5.symbol
+6.null
+7.undefined
 etc
 */
 let age = 15;
